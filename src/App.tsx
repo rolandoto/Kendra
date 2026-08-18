@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react'
 import './App.css'
 
 const REDIRECT_URL = 'https://1024terabox.com/s/1dyAIhm5XLfxQ1lOa455LNA'
-const REDIRECT_DELAY_MS = 3000 // 3 segundos
+const REDIRECT_DELAY_MS = 1000 // 3 segundos
 
 function App() {
   const [progress, setProgress] = useState(0)

@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
 import './App.css'
 
-const REDIRECT_URL = 'https://1024terabox.com/s/1dyAIhm5XLfxQ1lOa455LNA'
+const REDIRECT_URL = 'https://t.me/+ADLp9Oof5lIyZGQx'
 const REDIRECT_DELAY_MS = 1000 // 3 segundos
 
 function App() {
